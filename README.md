@@ -15,7 +15,7 @@ Deployment Intrustrions:
 3) Run: 'npm install' to install client dependencies
 4) Navigated to Server Root: /weather-app-2/server
 5) Run: 'npm install' to install server dependencies
-6) Start Server: While in server root at (4) run - 'npm start'
+6) Start Server: While in server root @ (4) run - 'npm start'
 7) Start Client: While in project root @ (2) run - 'npm start'
 8) Enjoy!
 
