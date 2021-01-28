@@ -1,0 +1,31 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "proxy": "https://www.metaweather.com/api/location/44418/",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "extend": "^3.0.2",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazo23/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kazo23/weather-app/issues"
+  },
+  "homepage": "https://github.com/kazo23/weather-app#readme",
+  "description": ""
+}
