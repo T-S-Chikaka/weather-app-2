@@ -1,6 +1,4 @@
 # weather-app-2
-Equitas Application
-
 This is a basic weather app, that shows the weather forcast for Belfast over a 5 day period.
 
 Stack Used:
